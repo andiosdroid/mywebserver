@@ -1,5 +1,5 @@
-# mywebserver
-created a webserver from scratch using just python. Performs basic CRUD functions
+# Web Server written in python
+Webserver created from scratch using just Python. Performs basic CRUD functions
 
 Software Required:
 SQL alchemy, python
